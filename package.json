@@ -1,0 +1,21 @@
+{
+  "name": "todolist",
+  "version": "1.0.0",
+  "description": "Seznam ukolu",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+
+  },
+  "keywords": [
+    "NodeJS",
+    "PUG",
+    "CSV"
+  ],
+  "author": "Jan Benisek",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
